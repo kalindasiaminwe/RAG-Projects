@@ -1,8 +1,10 @@
 streamlit
-pinecone-client
+pinecone
+langchain_pinecone
 pinecone-text
 langchain
 langchain-community
 langchain-core
 langchain-ollama
+ollama
 python-dotenv
